@@ -1,4 +1,7 @@
-# DESN 368 WEB DESIGN 1 STARTER TEMPLATE
+# Coffee Editorial Design
 
-> WIP
+> Yerrrr
 
+stuff about stuff
+
+## Citations
