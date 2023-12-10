@@ -1,10 +1,10 @@
-# Coffee Editorial Design
+# Lightning Editorial
 
-> Yerrrr
+> Half Baked
 
-stuff about stuff
+
 
 ## Citations
 
-* [Coffee] (https://en.wikipedia.org/wiki/Coffee)
+* [Lightning in Religion] (https://en.wikipedia.org/wiki/Lightning_in_religion)
 * Favicon.io

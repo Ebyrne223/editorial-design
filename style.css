@@ -19,6 +19,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color:#7b7d7d;
 
   position: relative;
   box-sizing: border-box;
@@ -27,35 +28,48 @@ body {
 }
 
 .one {
-  background: #fff;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/EngravingLucifer1654.jpg/800px-EngravingLucifer1654.jpg)
+  
+}
+p {
+  background-color: #cdcdcd;
+  justify-content: space-evenly;
+}
+h1 {
+  background-color: #cdcdcd;
+  justify-content: space-evenly;
+  align-content: center;
+}
+li{
+  background-color: #cdcdcd;
+  justify-content: space-evenly;
+  align-content: center;
 }
 
 .two {
-  background: url(https://images.unsplash.com/photo-1500353391678-d7b57979d6d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDExOTk0ODF8&ixlib=rb-4.0.3&q=80&w=400) no-repeat;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/4/46/Perun_Gromoverzhecz_by_Andrey_Shishkin.jpg
+  );
 }
 
 .three {
-  background: #bdc3c7;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/3/36/Indra_deva.jpg);
 }
 
 .four {
-  background: #7b7d7d;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/9/98/Hokusai_%281834–49%29_God_of_Thunder.jpg);
+  background-position-y: center;
+  background-position-x: 40cm ;
+  background-size: contain;
 }
 
 .five {
-  background: #333;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/e/ed/Shelfcloud.jpg);
 }
 
 .one h1 {
-  transform: rotate(90deg);
-  opacity: 0;
-}
-
-.three p {
-  letter-spacing: 100px;
+  
 }
 
 .six {
 /*   transform: translateX(-500px) */
-  translateX: -500px
 }

@@ -9,10 +9,7 @@ ScrollTrigger.defaults({
 // Panel One
 gsap.to(".one h1", {
   scrollTrigger: "one",
-  color: "brown",
-  duration: 3, 
-  rotate: 0, 
-  opacity: 1
+
 });
 
 // Panel Two
@@ -24,14 +21,14 @@ gsap.to(".two", {
 gsap.to(".three p", {
   
   scrollTrigger: "three",
-  letterSpacing: 0, 
-  duration: 5
+
 
 });
 
 // Panel Four
 gsap.to(".four", {
   scrollTrigger: "four"
+  
 });
 
 // Panel Five
@@ -42,7 +39,5 @@ gsap.to(".five", {
 
 // Panel Six
 gsap.to(".six", {
-  scrollTrigger: "six",
-  translateX : 0, 
-  duration: 5
+ 
 });
